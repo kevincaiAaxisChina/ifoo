@@ -1,13 +1,10 @@
-# Spurv(Beta)
-
-![avatar](https://raw.githubusercontent.com/Freeyayo/ifoo/master/docs/_media/logo.png)
-
-[![](https://data.jsdelivr.com/v1/package/npm/spurv/badge)](https://www.jsdelivr.com/package/npm/spurv)
-[![npm version](https://badge.fury.io/js/spurv.svg)](https://badge.fury.io/js/spurv)
-
-### The Documentation
-[Documentation Link](https://freeyayo.github.io/ifoo/#/)
-
+<!--
+ * @Date: 2020-06-22 23:46:18
+ * @LastEditors: Conghao Cai🔧
+ * @LastEditTime: 2020-06-22 23:56:19
+ * @FilePath: /spurv/ifoo/docs/utility/README.md
+--> 
+# Get Start
 ### What is Spurv?
 - A library which includes many useful functions and data structures that JavaScript doesn't have yet.
 - Most of them comes from my daily work and study.
@@ -24,8 +21,6 @@
 - Data Structure
     - Link List
     - Tuple
-    - Tree
-    - Graph
 - Performance
     - Faster
-    - As Less Heap Memory Used AS Possible
+    - As Less Heap Memory Used AS Possible 
